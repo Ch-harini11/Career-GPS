@@ -5,7 +5,7 @@
 ## Demo & Submission
 - Submission PDF: (add Drive link after upload)
 - Demo video: (add Drive link after upload)
-- GitHub repo: https://github.com/ch-harini11/CareerGPS
+- GitHub repo: https://github.com/ch-harini11/Career-GPS
 
 ## Project overview
 CareerGPS analyzes resumes and returns role suggestions, a tailored learning roadmap, and mock interview feedback using OpenAI APIs.
